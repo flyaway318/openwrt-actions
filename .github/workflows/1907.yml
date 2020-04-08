@@ -1,9 +1,8 @@
 #=================================================
-# https://github.com/P3TERX/Actions-OpenWrt
+# https://github.com/flyaway318/Actions-OpenWrt
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: P3TERX
-# Blog: https://p3terx.com
+# Author: flyaway318
 #=================================================
 name: X64-1907
 
